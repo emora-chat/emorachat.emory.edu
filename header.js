@@ -43,11 +43,6 @@ document.write('\
                                                     <span>Emora Chat</span>\
                                                 </a>\
                                             </li>\
-                                            <li>\
-                                                <a class="dropdown-item" href="contact.html" target="_self">\
-                                                    <span>Contact</span>\
-                                                </a>\
-                                            </li>\
                                         </ul>\
                                     </li>\
                                     <li class="nav-item dropdown">\
@@ -83,10 +78,33 @@ document.write('\
                                             </li>\
                                         </ul>\
                                     </li>\
-                                    <li class="nav-item">\
-                                        <a class="nav-link" href="faq.html" target="_self">\
-                                            <span>FAQ</span>\
+                                    <li class="nav-item dropdown">\
+                                        <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="menu" href="#" id="nav-menu-about-toggle" role="button">\
+                                            <span>Support</span>\
                                         </a>\
+                                        <ul aria-labelledby="nav-menu-about-toggle" class="dropdown-menu nav-level-2" id="nav-menu-about">\
+                                            <li>\
+                                                <a class="dropdown-item" href="contact.html" target="_self">\
+                                                    <span>Contact</span>\
+                                                </a>\
+                                            </li>\
+                                            <li>\
+                                                <a class="dropdown-item" href="faq.html" target="_self">\
+                                                    <span>FAQ</span>\
+                                                </a>\
+                                            </li>\
+                                            <div class="dropdown-divider"></div>\
+                                            <li>\
+                                                <a class="dropdown-item" href="tos.html" target="_self">\
+                                                    <span>Terms of Service</span>\
+                                                </a>\
+                                            </li>\
+                                            <li>\
+                                                <a class="dropdown-item" href="privacy_policy.html" target="_self">\
+                                                    <span>Privacy Policy</span>\
+                                                </a>\
+                                            </li>\
+                                        </ul>\
                                     </li>\
                                 </ul>\
                             </div>\
