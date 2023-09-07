@@ -43,6 +43,11 @@ document.write('\
                                                     <span>Emora Chat</span>\
                                                 </a>\
                                             </li>\
+                                            <li>\
+                                                <a class="dropdown-item" href="team.html" target="_self">\
+                                                    <span>Team</span>\
+                                                </a>\
+                                            </li>\
                                         </ul>\
                                     </li>\
                                     <li class="nav-item dropdown">\
