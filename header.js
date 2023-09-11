@@ -61,8 +61,8 @@ document.write('\
                                                 </a>\
                                             </li>\
                                             <li>\
-                                                <a class="dropdown-item" href="release_notes.html" target="_self">\
-                                                    <span>Release Notes</span>\
+                                                <a class="dropdown-item" href="app_updates.html" target="_self">\
+                                                    <span>App Updates</span>\
                                                 </a>\
                                             </li>\
                                             <div class="dropdown-divider"></div>\
@@ -110,6 +110,11 @@ document.write('\
                                                 </a>\
                                             </li>\
                                         </ul>\
+                                    </li>\
+                                    <li class="nav-item">\
+                                        <a class="nav-link" href="https://emora01.mathcs.emory.edu" target="_blank">\
+                                            <span>Web App</span>\
+                                        </a>\
                                     </li>\
                                 </ul>\
                             </div>\
